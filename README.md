@@ -4,7 +4,7 @@ A high-performance URL shortener service built with **Go**, **Fiber**, **Postgre
 
 Designed as a production-grade backend example to showcase clean architecture, fast redirects, caching strategies, and modern Go practices.
 
-![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?style=for-the-badge&logo=go)
+![Go](https://img.shields.io/badge/Go-1.25+-00ADD8?style=for-the-badge&logo=go)
 ![Fiber](https://img.shields.io/badge/Fiber-v3-00AEEF?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
